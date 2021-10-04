@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hugo.c@club-internet.fr
+	name = hugochanteloup
